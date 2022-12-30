@@ -1,1 +1,3 @@
-# .github
+
+This project is a fork of the original chatwoot, soon news and a roadmap, we have a lot of work ahead! A new landing page, new features...
+
